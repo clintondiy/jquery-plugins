@@ -1,7 +1,7 @@
 # jquery-plugins
 Collection of different jQuery plugins
 ## Installation
-Include this file after jquery
+Include jquery-dropdownlist.js file after jquery
 ## Usage
 
 You need to specified the input box and the array to be sorted.
